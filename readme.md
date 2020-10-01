@@ -1,7 +1,7 @@
 ## Bootstrap 5 Alpha Full Course 
 
 #### Bootstrap colors 
-`html
+```html
 - primary
 - secondary
 - success
@@ -15,4 +15,4 @@
 - muted
 - black-50
 - white-50 
-`
+```
